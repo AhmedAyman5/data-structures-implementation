@@ -12,7 +12,7 @@ data-structures-implementation/ <br>
 │<br>
 ├── 1-Linked-lists/<br>
 │   ├── 1-Singly-Linked-List/<br>
-|   ├── 2-doubly-linked-list/<br>
+|    ├── 2-doubly-linked-list/<br>
 │   └── 3-circular-linked-list/<br>
 │<br>
 ├── 2-Stack/<br>

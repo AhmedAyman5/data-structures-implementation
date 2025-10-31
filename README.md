@@ -9,16 +9,16 @@ Each data structure is implemented manually (no STL) to understand how things wo
 ## Folder Structure:
 
 data-structures-implementation/ <br>
-│ <br>
-├── 1-Linked-lists/ <br>
-│ ├── 1-Singly-Linked-List/ <br>
-| ├── 2-doubly-linked-list/ <br>
-│ └── 3-circular-linked-list/ <br>
 │<br>
-├── 2-Stack/ <br>
-├── <br>
-├── <br>
-└── README.md <br>
+├── 1-Linked-lists/<br>
+│   ├── 1-Singly-Linked-List/<br>
+|   ├── 2-doubly-linked-list/<br>
+│   └── 3-circular-linked-list/<br>
+│<br>
+├── 2-Stack/<br>
+├──<br>
+├──<br>
+└── README.md<br>
 
 
 ---

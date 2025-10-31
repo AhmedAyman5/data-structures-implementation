@@ -1,4 +1,4 @@
-# 🧱 Data Structures Implementation (C++)
+# Data Structures Implementation (C++)
 
 This repository contains my own implementations of fundamental data structures from scratch using C++.
 

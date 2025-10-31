@@ -6,18 +6,19 @@ Each data structure is implemented manually (no STL) to understand how things wo
 
 ---
 
-## Folder Structure
-data-structures-implementation/
-│
-├── 1-Linked-lists/
-│ ├── 1-Singly-Linked-List/
-| ├── 2-doubly-linked-list/
-│ └── 3-circular-linked-list
-│
-├── 2-Stack/
-├── 
-├── 
-└── README.md
+## Folder Structure:
+
+data-structures-implementation/ <br>
+│ <br>
+├── 1-Linked-lists/ <br>
+│ ├── 1-Singly-Linked-List/ <br>
+| ├── 2-doubly-linked-list/ <br>
+│ └── 3-circular-linked-list/ <br>
+│<br>
+├── 2-Stack/ <br>
+├── <br>
+├── <br>
+└── README.md <br>
 
 
 ---

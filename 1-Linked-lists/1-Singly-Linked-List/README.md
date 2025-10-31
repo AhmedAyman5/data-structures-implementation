@@ -59,3 +59,14 @@ int main() {
     cout << "Length: " << list.getLength() << '\n';
 }
 ```
+
+## Future Improvements
+
+- Make list with template to support generic data types not just int.
+- Add `sort()` function.
+- Add `removeDuplicates()` function.
+- Implement a copy constructor(to make deep copy) and assignment operator(operator overloading).
+
+## Author
+Ahmed Ayman
+Student at Faculty of Computers and Information Science, Mansoura University (Software Engineering Department)

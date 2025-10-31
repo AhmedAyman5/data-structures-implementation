@@ -68,5 +68,5 @@ int main() {
 - Implement a copy constructor(to make deep copy) and assignment operator(operator overloading).
 
 ## Author
-**Ahmed Ayman**
-***Student at Faculty of Computers and Information Science, Mansoura University (Software Engineering Department)***
+**Ahmed Ayman** <br>
+Student at Faculty of Computers and Information Science, Mansoura University (Software Engineering Department)

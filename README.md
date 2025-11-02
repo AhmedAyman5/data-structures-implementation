@@ -11,11 +11,11 @@ Each data structure is implemented manually (no STL) to understand how things wo
 data-structures-implementation/ <br>
 │<br>
 ├── Linked-lists/<br>
-│ &emsp;&nbsp;├── singly-linked-list/<br>
+│ &emsp;&emsp;├── singly-linked-list/<br>
 │<br>
 ├── stack/<br>
-| &emsp;&nbsp;├── array-based-stack/<br>
-| &emsp;&nbsp;├── linked-list-based-stack/<br>
+| &emsp;&emsp;├── array-based-stack/<br>
+| &emsp;&emsp;└── linked-list-based-stack/<br>
 ├──<br>
 ├──<br>
 └── README.md<br>

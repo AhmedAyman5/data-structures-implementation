@@ -1,0 +1,12 @@
+1- class Stack		  -Done
+2- void push(int)          -Done
+3- bool isFull()             -Done
+4- void Pop()                -Done
+5- bool isEmpty()       -Done
+6- int peek()            -Done
+7- int numberOfElements()    -Done
+8- Destructor                -Done
+
+data-structures-implementation
+
+This repository contains my own implementations of fundamental data structures from scratch using C++.

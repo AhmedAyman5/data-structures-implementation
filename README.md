@@ -11,7 +11,7 @@ Each data structure is implemented manually (no STL) to understand how things wo
 data-structures-implementation/ <br>
 │<br>
 ├── Linked-lists/<br>
-│               ├── singly-linked-list/<br>
+│ &nbsp;&nbsp;&nbsp;├── singly-linked-list/<br>
 │<br>
 ├── stack/<br>
 ├──<br>
@@ -35,7 +35,7 @@ Building this repo to:
 
 ---
 
-Connect with me:
+## Connect with me:
 If you’re also passionate about learning computer science deeply, feel free to connect or follow my progress, I’m will adding more data structures here.
 
 ---

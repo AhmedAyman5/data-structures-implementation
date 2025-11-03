@@ -1,0 +1,10 @@
+- class Stack               -Done
+- class Node               -Done
+- increaseLength               -Done
+- decreaseLength               -Done
+- void push(int)             -Done
+- bool isEmpty()           -Done
+- void Pop()                 -Done
+- int peek()                   -Done
+7- int numberOfElements()        -Done
+8- Destructor               -Done

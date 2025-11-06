@@ -16,7 +16,10 @@ data-structures-implementation/ <br>
 ├── stack/<br>
 | &emsp;&ensp;&nbsp;├── array-based-stack/<br>
 | &emsp;&ensp;&nbsp;└── linked-list-based-stack/<br>
-├── queue<br>
+├── queue/<br> 
+| &emsp;&ensp;&nbsp;├── array-based-queue/<br>
+| &emsp;&ensp;&nbsp;├── shifting-queue/<br>
+| &emsp;&ensp;&nbsp;└── circular-queue/<br>
 ├──<br>
 └── README.md<br>
 

@@ -16,7 +16,7 @@ data-structures-implementation/ <br>
 ├── stack/<br>
 | &emsp;&ensp;&nbsp;├── array-based-stack/<br>
 | &emsp;&ensp;&nbsp;└── linked-list-based-stack/<br>
-├──<br>
+├── queue<br>
 ├──<br>
 └── README.md<br>
 

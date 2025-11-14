@@ -19,7 +19,8 @@ data-structures-implementation/ <br>
 ├── queue/<br> 
 | &emsp;&ensp;&nbsp;├── array-based-queue/<br>
 | &emsp;&ensp;&nbsp;├── shifting-queue/<br>
-| &emsp;&ensp;&nbsp;└── circular-queue/<br>
+| &emsp;&ensp;&nbsp;├── circular-queue/<br>
+| &emsp;&ensp;&nbsp;└── linked-list-based-queue/<br>
 ├──<br>
 └── README.md<br>
 
@@ -28,7 +29,6 @@ data-structures-implementation/ <br>
 
 ## Tools
 - Language: **C++**
-- IDE: **Visual Studio**
 
 ---
 

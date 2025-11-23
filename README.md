@@ -8,21 +8,25 @@ Each data structure is implemented manually (no STL) to understand how things wo
 
 ## Folder Structure:
 
-data-structures-implementation/ <br>
-│<br>
-├── Linked-lists/<br>
-│ &emsp;&ensp;&nbsp;└── singly-linked-list/<br>
-│<br>
-├── stack/<br>
-| &emsp;&ensp;&nbsp;├── array-based-stack/<br>
-| &emsp;&ensp;&nbsp;└── linked-list-based-stack/<br>
-├── queue/<br> 
-| &emsp;&ensp;&nbsp;├── array-based-queue/<br>
-| &emsp;&ensp;&nbsp;├── shifting-queue/<br>
-| &emsp;&ensp;&nbsp;├── circular-queue/<br>
-| &emsp;&ensp;&nbsp;└── linked-list-based-queue/<br>
-├──<br>
-└── README.md<br>
+```
+data-structures-implementation/
+│
+├── Linked-lists/
+│   └── singly-linked-list/
+│
+├── stack/
+│   ├── array-based-stack/
+│   └── linked-list-based-stack/
+│
+├── queue/
+│   ├── array-based-queue/
+│   ├── shifting-queue/
+│   ├── circular-queue/
+│   └── linked-list-based-queue/
+│
+└── README.md
+
+```
 
 
 ---

@@ -23,6 +23,8 @@ data-structures-implementation/
 │   ├── shifting-queue/
 │   ├── circular-queue/
 │   └── linked-list-based-queue/
+├── trees/
+│   ├── binary-search-tree/
 │
 └── README.md
 
